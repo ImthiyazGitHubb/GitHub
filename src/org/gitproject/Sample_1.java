@@ -6,7 +6,12 @@ public class Sample_1 {
 		
 		System.out.println("Suresh added few lines");
 		
-		
+		System.out.println("Suresh Completed his work");
 		
 	}
+
+	
+
+	
+	
 }
